@@ -17,3 +17,33 @@
 If you want to use a "throw-away" account, that is fine. 
 
  Due by Dec 4 5pm
+ 
+ 
+ 
+Project  Milestone 1
+''' 
+ Brief description
+ 
+ The following data is acquired from Bureau of Economic Analysis website
+
+
+Data fields include various income information,Year. For example, Government social benefits to the person, Social security, Medicare,unemployment insurance,Veteran's benefits,etc 
+Personal consumption expenditure fields such as Durable goods,non durable goods motor vehicles,Life insurance,food and meals,clothing,gasoline,household products,pharmaceutical products etc.
+
+
+BEA (Bureau of Economic Analysis) produces some of the most closely watched economic statistics that influence decisions of government officials,
+business people, and individuals. These statistics provide a comprehensive, up-to-date picture of the U.S. economy. 
+The data on this page are drawn from featured BEA economic accounts.
+
+37 columns and 91 rows and 3367 pieces of data
+
+We are planning to add value to the data by creating some visualizations and graphs and also trying to see if there is any correlation between Income and Expenditure by analyzing the data.
+
+
+Our schema consists of two tables, one table with US income type attributes and one table with US consumption by product type
+'''
+
+ 
+ 
+ 
+ 
